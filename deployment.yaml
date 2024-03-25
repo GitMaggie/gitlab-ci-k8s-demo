@@ -11,6 +11,7 @@ spec:
     metadata:
       labels:
         app: java-demo
+        test: yibei
     spec:
       containers:
       - name: java-demo
